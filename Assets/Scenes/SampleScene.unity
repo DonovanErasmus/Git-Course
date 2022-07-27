@@ -593,6 +593,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 3
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &1410939047
 GameObject:
   m_ObjectHideFlags: 0
@@ -691,6 +692,8 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 7
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+=======
+>>>>>>> parent of 9457d59 (New master)
 --- !u!1 &1436296776
 GameObject:
   m_ObjectHideFlags: 0
@@ -788,6 +791,7 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 4
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+<<<<<<< HEAD
 --- !u!1 &2079728798
 GameObject:
   m_ObjectHideFlags: 0
@@ -984,3 +988,5 @@ Transform:
   m_Father: {fileID: 0}
   m_RootOrder: 9
   m_LocalEulerAnglesHint: {x: 90, y: 0, z: 0}
+=======
+>>>>>>> parent of 9457d59 (New master)
